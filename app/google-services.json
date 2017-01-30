@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "719584672813",
+    "firebase_url": "https://helphomeless-847a9.firebaseio.com",
+    "project_id": "helphomeless-847a9",
+    "storage_bucket": "helphomeless-847a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719584672813:android:21ceec4a9ba655b6",
+        "android_client_info": {
+          "package_name": "com.example.abhilashreddy.homelessness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719584672813-bndl57j5chrmsuq3gfmgjs93sj2vt58h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNbTiPm4BEPb1DZOw01TT-pj5J7PyhWHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
